@@ -1,1 +1,2 @@
-# GetAway---Cloud
+# get-away
+Cloud project
